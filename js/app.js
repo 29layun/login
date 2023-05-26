@@ -15,7 +15,7 @@ particlesJS(
             "type": "edge",
             "stroke": {
               "width": 2,
-              "color": "#ffffff"
+              "color": "#9595df"
             },
             "polygon": {
               "nb_sides": 5
